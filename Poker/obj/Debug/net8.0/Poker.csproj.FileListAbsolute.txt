@@ -1,0 +1,14 @@
+D:\FPT_Software\.net\ConsoleApp1\Poker\bin\Debug\net8.0\Poker.exe
+D:\FPT_Software\.net\ConsoleApp1\Poker\bin\Debug\net8.0\Poker.deps.json
+D:\FPT_Software\.net\ConsoleApp1\Poker\bin\Debug\net8.0\Poker.runtimeconfig.json
+D:\FPT_Software\.net\ConsoleApp1\Poker\bin\Debug\net8.0\Poker.dll
+D:\FPT_Software\.net\ConsoleApp1\Poker\bin\Debug\net8.0\Poker.pdb
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\Poker.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\Poker.AssemblyInfoInputs.cache
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\Poker.AssemblyInfo.cs
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\Poker.csproj.CoreCompileInputs.cache
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\Poker.dll
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\refint\Poker.dll
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\Poker.pdb
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\Poker.genruntimeconfig.cache
+D:\FPT_Software\.net\ConsoleApp1\Poker\obj\Debug\net8.0\ref\Poker.dll
